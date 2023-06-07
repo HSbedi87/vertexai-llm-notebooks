@@ -1,6 +1,6 @@
-# vertexAI llm samples
+# VertexAI Large Language Model Samples
 
-This repository of fun projects i have build using Large Language Models powered by Vertex AI on Google Cloud. Hope you have fun building!
+This is a repository of fun projects i have build using Large Language Models powered by Vertex AI on Google Cloud. Hope you have fun building!
 
 
 ## Samples
